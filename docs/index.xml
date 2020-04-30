@@ -16,10 +16,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/details.html</guid>
-      <description>When is the competition? The competition is April 8 through April 22. All projects must be submitted by April 22, 2020 at 11:59p EDT.
-Who is eligible to participate? The competition is open to all undergraduate and MS students at Duke.
-How large are the teams? Teams can be made up of 2 to 5 students.
-Do I have to compete in a team? DataFest is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition.</description>
+      <description>When is the competition? The competition is June 1 through June 15. All projects must be submitted by June 15, 2020 at 23:59 EDT.
+Who is eligible to participate? Undergraduate students in a Statistical Sciences program of study or completed STA130 in Fall 2019/Winter 2020, and registered in the Independent Summer Statistics Community (ISSC) (open to all undergraduate students in Statistics programs at UofT).
+ How large are the teams? Teams can be made up of 2 to 5 students.</description>
     </item>
     
     <item>
@@ -28,13 +27,13 @@ Do I have to compete in a team? DataFest is a collaborative competition, so we s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resources.html</guid>
-      <description>Technology resources Accessing software  Duke VM Manage: https://vm-manage.oit.duke.edu/containers
- Access Docker containers for RStudio, Python Jupyter Notebooks, and other analysis software  RStudio Cloud: https://rstudio.cloud/
+      <description>Technology resources Accessing software in the cloud  RStudio Cloud: https://rstudio.cloud/
+ Google Colaboratory: https://colab.research.google.com/
+ Syzygy: https://utoronto.syzygy.ca/
  Tableau:
- Tableau Public: https://public.tableau.com/en-us/s Tableau Desktop - free student license: https://www.tableau.com/academic   Code repository, version control, and collaboration  GitLab: https://gitlab.oit.duke.edu/
- GitHub: https://www.github.com
+ Tableau Public: https://public.tableau.com/en-us/s Tableau Desktop - free student license: https://www.tableau.com/academic   Code repository, version control, and collaboration  GitHub: https://www.github.com
  Happy Git with R: https://happygitwithr.com/
-  R Shiny resources:  Deploy Shiny app on shinyapps.io: https://docs.</description>
+  R Shiny resources:  Deploy Shiny app on shinyapps.io: https://docs.rstudio.com/shinyapps.io/getting-started.html Shiny tutorials: https://shiny.rstudio.com/tutorial/ Statistical Computing RShiny Notes: Part I and Part II  MyMedia You will host your videos or screen casts using MyMedia.</description>
     </item>
     
     <item>
@@ -43,10 +42,9 @@ Do I have to compete in a team? DataFest is a collaborative competition, so we s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signup.html</guid>
-      <description>Sign up by April 12 at 11:59p EDT The ASA DataFest: COVID-19 Virtual Data Challenge is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition. If your current situation does not make it feasible for you to work on a team, you can still participate individually.
- Click here to register for the competition.
-
-If you have any questions about registration, please contact Maria Tackett.</description>
+      <description>Sign up by May 24, 23:59 EDT The ASA DataFest: COVID-19 Virtual Data Challenge is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition. If your current situation does not make it feasible for you to work on a team, you can still participate individually.
+ 
+If you have any questions about registration, please contact Gillis Aning.</description>
     </item>
     
     <item>
@@ -55,9 +53,10 @@ If you have any questions about registration, please contact Maria Tackett.</des
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/sponsors.html</guid>
-      <description>We would like to thank our sponsors ASA DataFest: COVID-19 Data Challenge!
+      <description>We would like to thank our sponsors ASA DataFest@UofT: COVID-19 Data Challenge!
 
-The Department of Statistical Science at Duke is nationally ranked in the top 5 research departments and as a top 10 graduate program. The Department currently (mid-late 2015) has 18 faculty, ~45 PhD students, ~70 MS students, ~70 research-active undergraduate majors, numerous postdocs, visitors, and affiliated researchers listed under People. Recognized as the world&#39;s leading center for Bayesian statistics and its interdisciplinary applications, the Department is a Duke campus hub for statistical and computational research.</description>
+
+The Department of Statistical Sciences, University of Toronto initially formed as a graduate department in 1977, the Department of Statistics began operating as an independent department in 1979 under the inaugural chairmanship of Donald A.S. Fraser. The University of Toronto has many notable alumni that are great leaders in statistical sciences, including Art Dempster, Rudy Beran, David Brillinger, John Chambers, Steve Fienberg, Daryl Pregibon, Mary Thompson, Ross Prentice, Rob Tibshirani, and Larry Wasserman.</description>
     </item>
     
   </channel>

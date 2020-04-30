@@ -3,22 +3,22 @@ title: "Sponsors"
 markup: "mmark"
 ---
 
-**We would like to thank our sponsors ASA DataFest: COVID-19 Data Challenge!**
+**We would like to thank our sponsors ASA DataFest@UofT: COVID-19 Data Challenge!**
 
 <br><br>
 
-<img style="width:320px;float: left;padding-right:20px" src="/logos/stat-sci-updated.png">
 
 
-[The Department of Statistical Science at Duke](http://stat.duke.edu/) is nationally ranked in the top 5 research departments and as a top 10 graduate program. The Department currently (mid-late 2015) has 18 faculty, ~45 PhD students, ~70 MS students, ~70 research-active undergraduate majors, numerous postdocs, visitors, and affiliated researchers listed under People. Recognized as the world's leading center for Bayesian statistics and its interdisciplinary applications, the Department is a Duke campus hub for statistical and computational research.
+<a href = "https://www.statistics.utoronto.ca/"> <img style="width:320px;float: left;padding-right:20px" src="/logos/Statistical-Sciences-logo.png"></a>
 
-<br><br><br><br><br><br>
+The [Department of Statistical Sciences, University of Toronto](https://www.statistics.utoronto.ca/) initially formed as a graduate department in 1977, the Department of Statistics began operating as an independent department in 1979 under the inaugural chairmanship of Donald A.S. Fraser.  The University of Toronto has many notable alumni that are great leaders in statistical sciences, including Art Dempster, Rudy Beran, David Brillinger, John Chambers, Steve Fienberg, Daryl Pregibon, Mary Thompson, Ross Prentice, Rob Tibshirani, and Larry Wasserman.  The explosion of interest in data science has triggered an accelerated expansion of the department’s inter-disciplinary research and a rapid growth of our community – from faculty to undergraduate and graduate students. Today, our enrolment rate is among the highest in North America.
+  
+  
+<br><br><br><br>
 
+<a href = "https://www.artsci.utoronto.ca/"> <img style="width:320px;float: left;padding-right:20px" src="/logos/fas.png"></a>
 
-<img style="width:320px;float: left;padding-right:20px" src="/logos/duke-ai-health.png">
-
-
-The [Duke AI Health Institute](https://forge.duke.edu/news/duke-ai-health-launches-distinguished-lecture-series) connects, strengthens, amplifies, and grows multiple streams of theoretical and applied research on artificial intelligence in order to answer the most urgent and difficult challenges in medicine and population health. A multidisciplinary, campus-spanning initiative, AI Health harnesses expertise and insights across multiple schools, centers, and institutes at Duke to bring to bear the power of machine learning and related quantitative fields on medicine, healthcare delivery, and the health of individuals and communities.
+The [Faculty of Arts and Science, University of Toronto](https://www.artsci.utoronto.ca/) is the heart of Canada’s leading university and one of the most comprehensive and diverse academic divisions in the world. The strength of Arts & Science derives from the combined excellence of faculty and students in the humanities, sciences and social sciences.
 
 <br><br><br><br>
 

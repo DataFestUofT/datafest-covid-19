@@ -20,14 +20,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   archive = "archives"
 
 [author]
-  name = "ASA DataFest at Duke"
+  name = "ASA DataFest@UofT"
   bio = ""
   job = ""
-  location = "Duke University"
-  gravatarEmail = "maria.tackett@duke.edu"
+  location = "University of Toronto"
+  gravatarEmail = "gillis.aning@utoronto.ca"
   # Your profile picture
 #  picture = ""
-  twitter = "dukedatafest"
+  twitter = "UofTStatSci"
  
 # Menu Configuration
 [[menu.main]]
@@ -70,10 +70,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.footer]]
   weight = 1
-  identifier = "Duke"
-  name = "Duke StatSci"
+  identifier = "University of Toronto"
+  name = "UofT StatSci"
   pre = "<i class=\"button-icon fa fa fa-map-marker\"></i>"
-  url = "http://stat.duke.edu/"
+  url = "https://www.statistics.utoronto.ca/"
 [[menu.footer]]
   weight = 2
   name = "ASA DataFest"
@@ -84,9 +84,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"button-icon fa fa fa-twitter\"></i>"
-  url = "https://twitter.com/dukedatafest"
+  url = "https://twitter.com/UofTStatSci"
 [[menu.footer]]
 
 [params]
   dateFormat = "January 2, 2006"
-  background = "https://www2.stat.duke.edu/datafest-covid19/background.png"
+  background = "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Ff06e9694-65fb-11ea-b021-fae459863cfa.jpg?crop=8256%2C4644%2C0%2C430&resize=1180"

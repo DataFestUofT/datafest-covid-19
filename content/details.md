@@ -5,11 +5,15 @@ markup: "mmark"
 
 ### When is the competition? 
 
-The competition is April 8 through April 22. All projects must be submitted by **April 22, 2020 at 11:59p EDT**. 
+The competition is June 1 through June 15. All projects must be submitted by **June 15, 2020 at 23:59 EDT**. 
 
 ### Who is eligible to participate?
 
-The competition is open to all undergraduate and MS students at Duke.
+Undergraduate students in a Statistical Sciences program of study or completed STA130 in Fall 2019/Winter 2020, and registered in the [Independent Summer Statistics Community (ISSC)](https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx) (open to all undergraduate students in Statistics programs at UofT).  
+
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOKHUU3SzAJJhmOKjJhDWEpUMTVDMlhXSzA0UDk2SktZREUxOFhSMUxNTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 
 ### How large are the teams? 
 
@@ -21,12 +25,12 @@ DataFest is a collaborative competition, so we strongly encourage you to work in
 
 ### How do I sign up to participate? 
 
-Click [here](/signup.html) to sign up. You must sign up by **Sunday, April 12 at 11:59p EDT**. 
+Click [here](/signup.html) to sign up. You must sign up by **Sunday, May 24 at 23:59 EDT**. 
 
 
 ### What are the rules of the competition? 
 
-- All projects must be submitted by **April 22 at 11:59p EDT**. There is only one submission per team. 
+- All projects must be submitted by **June 15 at 23:59 EDT**. There is only one submission per team. 
 - The data used in the project must be publicly available or openly licensed.
 - All video submissions must be no longer than 5 minutes. 
 - All interactive dashboards must be deployed online.
@@ -56,9 +60,8 @@ There should only be one submission per team. Your submission should include
 
 ### Where can I get help during the competition? 
 
-There will be periodic Zoom sessions where participants can meet with consultants to ask questions about their analysis. The times and Zoom links for the consulting sessions will be emailed to participants registered for the competition. 
+There will be periodic online synchronous sessions where participants can meet with mentors to ask questions about their analysis. The times and links for these sessions will be emailed to participants registered for the competition. 
 
-If you have any general questions during the competition, please email Prof. Maria Tackett, [maria.tackett@duke.edu](maria.tackett@duke.edu). 
 
 ### Have any other questions? 
 

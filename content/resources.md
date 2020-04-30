@@ -5,12 +5,13 @@ markup: "mmark"
 
 ## Technology resources
 
-### Accessing software
-
-- Duke VM Manage: https://vm-manage.oit.duke.edu/containers
-    - Access Docker containers for RStudio, Python Jupyter Notebooks, and other analysis software
+### Accessing software in the cloud
 
 - RStudio Cloud: https://rstudio.cloud/ 
+
+- Google Colaboratory: https://colab.research.google.com/
+
+- Syzygy: https://utoronto.syzygy.ca/
 
 - Tableau: 
   - Tableau Public: https://public.tableau.com/en-us/s 
@@ -18,7 +19,6 @@ markup: "mmark"
 
 ### Code repository, version control, and collaboration 
 
-- GitLab: https://gitlab.oit.duke.edu/
 
 - GitHub: https://www.github.com
 
@@ -30,13 +30,10 @@ markup: "mmark"
 - Shiny tutorials: https://shiny.rstudio.com/tutorial/
 - Statistical Computing RShiny Notes: [Part I](https://shawnsanto.com/files/sta323/slides/lec-9a-shiny1.html#1) and [Part II](https://shawnsanto.com/files/sta323/slides/lec-9b-shiny2.html#1)
 
-### WarpWire
+### MyMedia
 
-You will host your videos or screen casts using [WarpWire](https://launch.warpwire.duke.edu/). 
+You will host your videos or screen casts using [MyMedia](https://mymedia.library.utoronto.ca/login). 
 
-- How to upload videos
-  - from a computer: https://www.warpwire.com/support/upload/upload-to-media-library/
-  - from a mobile device:  https://www.warpwire.com/support/upload/upload-from-a-mobile-device/
 
 ### Video Recording 
 
