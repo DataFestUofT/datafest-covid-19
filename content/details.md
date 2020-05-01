@@ -5,32 +5,35 @@ markup: "mmark"
 
 ### When is the competition? 
 
-The competition is June 1 through June 15. All projects must be submitted by **June 15, 2020 at 23:59 EDT**. 
+The competition is June 1 through June 14. All projects must be submitted by **June 14, 2020 at 23:59 EDT**. 
 
 ### Who is eligible to participate?
 
 Undergraduate students in a Statistical Sciences program of study or completed STA130 in Fall 2019/Winter 2020, and registered in the [Independent Summer Statistics Community (ISSC)](https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx) (open to all undergraduate students in Statistics programs at UofT).  
 
+To register for the ISSC fill out the form below access the form [here.](https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOKHUU3SzAJJhmOKjJhDWEpUMTVDMlhXSzA0UDk2SktZREUxOFhSMUxNTC4u)
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOKHUU3SzAJJhmOKjJhDWEpUMTVDMlhXSzA0UDk2SktZREUxOFhSMUxNTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<br>
 
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEOKHUU3SzAJJhmOKjJhDWEpUMTVDMlhXSzA0UDk2SktZREUxOFhSMUxNTC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: 1px solid lightgrey; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+<br>
 
 ### How large are the teams? 
 
-Teams can be made up of 2 to 5 students.
+Teams can be made up of 2 to 4 students.
 
 ### Do I have to compete in a team? 
 
-DataFest is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition. If your current situation does not make it feasible for you to work on a team, you can still participate individually. 
+DataFest is a collaborative competition, so we strongly encourage you to work in a team to honor the spirit of the competition. If your current situation does not make it feasible for you to work on a team, you can still participate individually, but your project will not be evaluated by the judging panel.
 
 ### How do I sign up to participate? 
 
-Click [here](/signup.html) to sign up. You must sign up by **Sunday, May 24 at 23:59 EDT**. 
-
+[Submit an application](/signup.html) by **Sunday, May 24, 23:59 EDT** for your team to join the event.  NB: The number of teams that will be selected to be evaluated by the judging panel is limited, although you may still participate, and use your project to build your professional portfolio with the support of the [Independent Summer Statistics Community (ISSC)](https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx).
 
 ### What are the rules of the competition? 
 
-- All projects must be submitted by **June 15 at 23:59 EDT**. There is only one submission per team. 
+- All projects must be submitted by **June 14, 23:59 EDT**. There is only one submission per team. 
 - The data used in the project must be publicly available or openly licensed.
 - All video submissions must be no longer than 5 minutes. 
 - All interactive dashboards must be deployed online.
@@ -61,9 +64,4 @@ There should only be one submission per team. Your submission should include
 ### Where can I get help during the competition? 
 
 There will be periodic online synchronous sessions where participants can meet with mentors to ask questions about their analysis. The times and links for these sessions will be emailed to participants registered for the competition. 
-
-
-### Have any other questions? 
-
-Please email Prof. Maria Tackett, [maria.tackett@duke.edu](maria.tackett@duke.edu). 
 

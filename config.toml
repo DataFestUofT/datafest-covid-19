@@ -8,7 +8,7 @@ theme = "material"
 paginate = 7
 relativeURLs = true
 uglyURLs = true
-publishDir = "docs"
+publishDir = "../DataFestUofT.github.io"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]

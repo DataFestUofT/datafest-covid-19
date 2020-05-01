@@ -1,5 +1,5 @@
 ---
-title: "ASA DataFest"
+title: "ASA DataFest@UofT"
 description: "COVID-19 Virtual Data Challenge"
 markup: "mmark"
 ---
@@ -28,7 +28,7 @@ Finally, we have always framed ASA DataFest as a collaborative competition, but 
 
 #### Ready to join the competition?
 
-Click to [Sign up](/signup.html) for the event by **Sunday, May 24, 23:59 EDT**. 
+[Submit an application](/signup.html) by **Sunday, May 24, 23:59 EDT** for your team to join the event.  NB: The number of teams that will be selected to be evaluated by the judging panel is limited, although you may still participate, and use your project to build your professional portfolio with the support of the [Independent Summer Statistics Community (ISSC)](https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx).
 
 Need some inspiration to help you get started? Check out the [Resources](/resources.html) for example topics and datasets.
 

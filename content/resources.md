@@ -22,6 +22,8 @@ markup: "mmark"
 
 - GitHub: https://www.github.com
 
+- Gitlab: https://gitlab.com/
+
 - *Happy Git with R*: https://happygitwithr.com/ 
 
 ### R Shiny resources: 
