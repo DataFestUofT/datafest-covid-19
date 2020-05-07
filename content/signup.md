@@ -10,7 +10,11 @@ The ASA DataFest: COVID-19 Virtual Data Challenge is a collaborative competition
 
 <br> 
 
-To submit an application for your team to participate fill out the form below access the form [here.](https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEA3NqZP3vbBKglFWVcychCdUM0lVUlhBMEZUMFlKQ0hUU1hVRUdQQktNOS4u)
+To submit an application for your team to participate: 
+
+1. Each team member should register for the [Independent Summer Statistics Community (ISSC)](https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx) (open to all undergraduate students in Statistics programs at UofT).  
+
+2. Fill out the form below or access the form [here.](https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEA3NqZP3vbBKglFWVcychCdUM0lVUlhBMEZUMFlKQ0hUU1hVRUdQQktNOS4u)
 
 <br> 
 
